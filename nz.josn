@@ -13,7 +13,7 @@
     },
     {
       "key": "haiwaikan",
-      "name": "海外看┃采集",
+      "name": "🎬海外看┃采集",
       "type": 1,
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
@@ -93,7 +93,7 @@
     },
     {
       "key": "csp_biubiu_555电影",
-      "name": "🥒555电影(XB)",
+      "name": "🥒555电影|┃App",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
